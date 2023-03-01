@@ -128,6 +128,8 @@ def insert_text_get():
     input_insert_cip = insert_cip.get()
     input_insert_stapan = insert_stapan.get()
 
+    
+
     print(input_insert_nume)
     print(input_insert_specie)
     print(input_insert_rasa)
